@@ -1,1 +1,1 @@
-# numpy_pandas_cwiczenia
+# Nauka bibliotek Pyton - Numpy oraz Pandas
